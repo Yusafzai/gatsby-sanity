@@ -1,4 +1,6 @@
 # Blog with Gatsby and Sanity.io
+HOSTED: https://gatsby-sanity-web-re8fbz5b.netlify.app/
+
 ## Starter =>>>>>>>>>>> for clone
 
 1. Clone this repository
